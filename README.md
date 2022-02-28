@@ -1,5 +1,5 @@
 # PI-Dogs
-Proyecto Individual- Doogs
+Proyecto Individual- Dogs
 
 
 Individual Project - Henry Dogs
